@@ -21,7 +21,7 @@ A modern web application that allows users to upload images and enhance them usi
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Nitish0943/AI-Image-Enhancer.git
    cd react-ai-image-enhancer
    ```
 2. **Install dependencies:**
